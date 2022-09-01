@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTask", "MindBoxTask\MindBoxTask.csproj", "{FBCFEFED-E9D4-46A2-8B1D-84B20E36E06C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTask.UnitTests", "MindBoxTask.UnitTests\MindBoxTask.UnitTests.csproj", "{5E5CACFA-C125-45F7-930E-2DB2CAF4413F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FBCFEFED-E9D4-46A2-8B1D-84B20E36E06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBCFEFED-E9D4-46A2-8B1D-84B20E36E06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBCFEFED-E9D4-46A2-8B1D-84B20E36E06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5CACFA-C125-45F7-930E-2DB2CAF4413F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5CACFA-C125-45F7-930E-2DB2CAF4413F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5CACFA-C125-45F7-930E-2DB2CAF4413F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5CACFA-C125-45F7-930E-2DB2CAF4413F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
